@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-It's a markdown file in this repository.
+In this project, Tesla stock data are extracted and analyzed. Then it's graphed to show the patterns and trends.
